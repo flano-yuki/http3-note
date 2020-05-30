@@ -1,11 +1,14 @@
 # http3-note
 
-HTTP/3について書きました。
+[@flano_yuki](https://twitter.com/flano_yuki)がHTTP/3について書きました。
+
+2020/06/01 時点です。今後加筆されます。
 
 - [1. はじめに(HTTP/3と概要)](https://github.com/flano-yuki/http3-note/blob/master/http3-note_1.pdf) ([ダウンロード](https://github.com/flano-yuki/http3-note/raw/master/http3-note_1.pdf))
 - [2 QUICについて](https://github.com/flano-yuki/http3-note/blob/master/http3-note_2.pdf) ([ダウンロード](https://github.com/flano-yuki/http3-note/raw/master/http3-note_2.pdf))
 - [3 HTTP/3について](https://github.com/flano-yuki/http3-note/blob/master/http3-note_3.pdf) ([ダウンロード](https://github.com/flano-yuki/http3-note/raw/master/http3-note_3.pdf))
 - [4 HTTP/3 拡張仕様と応用](https://github.com/flano-yuki/http3-note/blob/master/http3-note_4.pdf) ([ダウンロード](https://github.com/flano-yuki/http3-note/raw/master/http3-note_4.pdf))
+-5 TODO 実装、ツール紹介
 
 ## 内容
 
