@@ -29,11 +29,11 @@
   - 2.5 ストリームについて
   - 2.6 コネクションの確立
   - 2.7 コネクションのクローズ
-  - 2.8 負荷分散・トラフィックのオペレーション
+  - (TODO)2.8 負荷分散・トラフィックのオペレーション
   - 2.9 その他 (FEC, Multipath, LB)
      - 2.9.1 Forward Error Correction(FEC)
      - 2.9.2 MP-QUIC
-     - 2.9.3 QUIC-LB
+     - (TODO) 2.9.3 QUIC-LB
   - TODO
 - [3 HTTP/3について](https://github.com/flano-yuki/http3-note/blob/master/http3-note_3.pdf)
   - 3.1 HTTP/3のはじめに
