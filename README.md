@@ -21,7 +21,7 @@
      - 1.4.2 HTTP over QUIC、標準化の開始
      - 1.4.3 HTTP/3への改称
   - 1.5 標準化動向を追うために
-- [2 QUICについて](https://github.com/flano-yuki/http3-note/blob/master/http3-note_1.pdf)
+- [2 QUICについて](https://github.com/flano-yuki/http3-note/blob/master/http3-note_2.pdf)
   - 2.1 QUIC、はじめに
   - 2.2 QUICの概要
   - 2.3 QUICコネクションとQUICパケットの基礎
