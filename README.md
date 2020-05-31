@@ -13,7 +13,7 @@
 ## 内容
 
 - [1. はじめに(HTTP/3と概要)](https://github.com/flano-yuki/http3-note/blob/master/http3-note_1.pdf)
-  - 1.1 はじめに
+  - 1.1 はじめのはじめに
   - 1.2 HTTPのセマンティクスとバージョンの話
   - 1.3 HTTP/3の概要
   - 1.4 HTTP/3 と呼ばれるまでの道のり
@@ -34,6 +34,7 @@
      - 2.9.1 Forward Error Correction(FEC)
      - 2.9.2 MP-QUIC
      - (TODO) 2.9.3 QUIC-LB
+  - 2.10 応用例
   - TODO
 - [3 HTTP/3について](https://github.com/flano-yuki/http3-note/blob/master/http3-note_3.pdf)
   - 3.1 HTTP/3のはじめに
