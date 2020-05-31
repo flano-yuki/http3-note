@@ -63,4 +63,5 @@
      - (TODO)4.3.3 WebTransport over HTTP/3
   - (TODO) 4.5 MASQUE
   - (TODO) 4.6 RIPT
+  - (TODO) 4.7 HTTP over multicast QUIC
 
